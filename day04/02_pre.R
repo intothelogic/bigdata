@@ -1,0 +1,1 @@
+file <- read.csv("C:\Users\pc\Documents\빅데이터R\day04\day04")
